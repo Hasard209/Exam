@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+<realestatelist>
+  <estate>
+    <name>Mark Plaza</name>
+    <adress>Link st. 24</adress>
+    <type>house</type>
+    <date>12.03.1990</date>
+    <floor>2</floor>
+    <room>8</room>
+    <cost>200000</cost>
+  </estate>
+
+  <estate>
+    <name>six hundreds</name>
+    <adress>Zadvorki st. 150</adress>
+    <type>homestead</type>
+    <date>04.10.2001</date>
+    <floor>0</floor>
+    <room>0</room>
+    <cost>800000</cost>
+  </estate>
+
+  <estate>
+    <name>Hrushyovka</name>
+    <adress>Stalin st. 9</adress>
+    <type>flat</type>
+    <date>22.12.1995</date>
+    <floor>0</floor>
+    <room>3</room>
+    <cost>70000</cost>
+  </estate>
+ 
+</realestatelist>
